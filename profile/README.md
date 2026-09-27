@@ -3,7 +3,7 @@
 <table align="center" bgcolor="#ffffff" cellpadding="18" cellspacing="0" style="background:#ffffff;border-radius:18px;overflow:hidden;">
   <tr>
     <td align="center" bgcolor="#ffffff" style="background:#ffffff;border-radius:18px;">
-      <img src="https://www.zivoralabs.xyz/assets/brand/zivora-dark.png" alt="Zivora" width="240" />
+      <img src="./zivora-light-white-bg.png" alt="Zivora" width="240" />
     </td>
   </tr>
 </table>
