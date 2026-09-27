@@ -1,6 +1,12 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/334392263?s=240&v=4" alt="Zivora Logic Ventures" width="120" />
+<table align="center" bgcolor="#ffffff" cellpadding="18" cellspacing="0" style="background:#ffffff;border-radius:18px;overflow:hidden;">
+  <tr>
+    <td align="center" bgcolor="#ffffff" style="background:#ffffff;border-radius:18px;">
+      <img src="https://www.zivoralabs.xyz/assets/brand/zivora-dark.png" alt="Zivora" width="240" />
+    </td>
+  </tr>
+</table>
 
 # Zivora Logic Ventures
 
